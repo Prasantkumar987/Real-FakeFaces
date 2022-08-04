@@ -15,7 +15,7 @@ This is my inspiration to create this project. This Classifier can be used in di
 
 For this project work and with the [Kaggle](https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection) dataset, a Real-Fake face classifier is developed using several approaches: *Convolutional Neural Networks* (CNN) and Transfer Learning with and without face cropping using the *Multi-Task Cascaded Convolutional Neural Networks* (MTCNN).
 
-To extend this Project, and in order to leverage the created models, a Web Application is developed using the [streamlit](https://streamlit.io/) framework. For more information about the models or the project, check out the [```project```](https://github.com/dvpinho/RealFakeFaces/tree/main/project) folder in the root directory of this repository. The application source code is in the [```app```](https://github.com/dvpinho/RealFakeFaces/tree/main/app) folder.
+To extend this Project, and in order to leverage the created models, a Web Application is developed using the [```streamlit```](https://streamlit.io/) framework. For more information about the models or the project, check out the [```Project Notebook```](https://github.com/Prasantkumar987/Real-FakeFaces/blob/master/RealFake_faces_classification.ipynb) in the root directory of this repository. The application source code is in the [```app```](https://github.com/Prasantkumar987/Real-FakeFaces/tree/master/app) folder.
 
 ## View the web app live
 Click [here](https://realfakefaceclassification.herokuapp.com/) to go to the app page.
@@ -26,7 +26,7 @@ Click [here](https://realfakefaceclassification.herokuapp.com/) to go to the app
 Open a terminal and start by cloning the project repository
 
 ```bash
-  git clone https://github.com/dvpinho/RealFakeFaces.git
+  https://github.com/Prasantkumar987/Real-FakeFaces.git
 ```
 
 Go to the project directory
@@ -55,11 +55,7 @@ Start the server (Windows)
 
 If the browser window does not open automatically when the ```streamlit run``` command is executed, you can manually navigate to ```localhost:8501```
 To terminate the application, go back to the terminal and shutdown the server by pressing ```CTRL + C```.
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
 
 ## Screenshots
 
-![app_screenshot](https://github.com/dvpinho/RealFakeFaces/blob/main/screenshots/app_screenshot.png)
+![app_snap](https://github.com/Prasantkumar987/Real-FakeFaces/blob/master/app-snap/app_screenshot.png)
