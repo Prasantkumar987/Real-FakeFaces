@@ -16,7 +16,7 @@ _, page_banner_img, _ = st.beta_columns([3, 2, 3])
 page_banner_img.image(path.join('assets', 'icons', 'robot_face.png'),
                       use_column_width=True)
 
-st.title('Real Fake Face Image Classifier "DeepFakes"')
+st.title('Real Fake Face Image Classifier "ArtificialFaces"')
 st.subheader('')
 
 st.markdown(
