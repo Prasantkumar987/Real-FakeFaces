@@ -56,6 +56,6 @@ Start the server (Windows)
 If the browser window does not open automatically when the ```streamlit run``` command is executed, you can manually navigate to ```localhost:8501```
 To terminate the application, go back to the terminal and shutdown the server by pressing ```CTRL + C```.
 
-## Screenshots
+## App Snapshot
 
 ![app_snap](https://github.com/Prasantkumar987/Real-FakeFaces/blob/master/app-snap/app_screenshot.png)
