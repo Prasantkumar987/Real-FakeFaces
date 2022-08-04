@@ -13,7 +13,7 @@ Some key indications these pictures were generated are:
 
 This is my inspiration to create this project. This Classifier can be used in differentiating Fake Account Photo on LinkedIn and other social media platfoms.
 
-For this project work and with the [Kaggle](https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection) dataset, a Real-Fake face classifier is developed using several approaches: *Convolutional Neural Networks* (CNN) and Transfer Learning with and without face cropping using the *Multi-Task Cascaded Convolutional Neural Networks* (MTCNN).
+For this project work and with the [kaggle](https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection) dataset, a Real-Fake face classifier is developed using several approaches: *Convolutional Neural Networks* (CNN) and Transfer Learning with and without face cropping using the *Multi-Task Cascaded Convolutional Neural Networks* (MTCNN).
 
 To extend this Project, and in order to leverage the created models, a Web Application is developed using the [```streamlit```](https://streamlit.io/) framework. For more information about the models or the project, check out the [```Project Notebook```](https://github.com/Prasantkumar987/Real-FakeFaces/blob/master/RealFake_faces_classification.ipynb) in the root directory of this repository. The application source code is in the [```app```](https://github.com/Prasantkumar987/Real-FakeFaces/tree/master/app) folder.
 
