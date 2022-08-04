@@ -18,7 +18,7 @@ For this project work and with the [kaggle](https://www.kaggle.com/datasets/cipl
 To extend this Project, and in order to leverage the created models, a Web Application is developed using the [```streamlit```](https://streamlit.io/) framework. For more information about the models or the project, check out the [```Project Notebook```](https://github.com/Prasantkumar987/Real-FakeFaces/blob/master/RealFake_faces_classification.ipynb) in the root directory of this repository. The application source code is in the [```app```](https://github.com/Prasantkumar987/Real-FakeFaces/tree/master/app) folder.
 
 ## View the web app live
-Click [here](https://realfakefaceclassification.herokuapp.com/) to go to the app page.
+Click [here](https://prasantkumar987-real-fakefaces-appapp-kl0mv2.streamlitapp.com/) to go to the app page.
 
 
 ## Run the app locally
