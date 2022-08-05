@@ -32,7 +32,7 @@ Open a terminal and start by cloning the project repository
 Go to the project directory
 
 ```bash
-  cd RealFakeFaces
+  cd Real-FakeFaces
 ```
 
 Install dependencies
