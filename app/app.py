@@ -6,14 +6,14 @@ from PIL import Image
 
 from model import get_model, get_model_summary, model_prediction
 
-st.set_page_config(page_title="Real Fake Face Classification",
-                   page_icon=path.join('assets', 'icons', 'logo.png'))
+st.set_page_config(page_title="ArtificialFaces",
+                   page_icon=path.join('assets', 'icons', 'artificial_face.ico'))
 
 with open(path.join('assets', 'styles.css')) as f:
     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
 _, page_banner_img, _ = st.beta_columns([3, 2, 3])
-page_banner_img.image(path.join('assets', 'icons', 'robot_face.png'),
+page_banner_img.image(path.join('assets', 'icons', 'artificial_face.png'),
                       use_column_width=True)
 
 st.title('Real Fake Face Image Classifier "ArtificialFaces"')
