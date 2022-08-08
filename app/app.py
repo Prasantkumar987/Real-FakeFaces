@@ -21,11 +21,7 @@ st.subheader('')
 
 st.markdown(
     """
-    This is a real-fake face classifier built with convolutional neural networks. The classifier was trained on a
-    data set comprised of 1400 images (700 of each class) and tested on 600 images (300 per class). The classifier
-    achieved an accuracy of **83.2%**. You can find more performance metrics and information about this project in
-    the [![GitHub](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/Prasantkumar987/Real-FakeFaces)
-    repository. To use this web application just drag and drop a face image to be classified by the model. While
+    To use this web application just drag and drop a face image to be classified by the model. While
     you think about that, have a 🍪 and refresh the page once or twice to classify a few built-in faces embedded
     into the app. The classifier will return the result with the associated probability that a specific face image
     belongs to either the ```Real``` or ```Fake``` class. The model's architecture summary is also presented below.
