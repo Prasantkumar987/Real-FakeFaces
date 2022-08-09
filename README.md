@@ -62,4 +62,6 @@ To terminate the application, go back to the terminal and shutdown the server by
 
 ## App Snapshot
 
-![app_snap](https://github.com/Prasantkumar987/Real-FakeFaces/blob/master/app-snap/app_snapshot.png)
+<p align="center">
+  <img src="https://github.com/Prasantkumar987/Real-FakeFaces/blob/master/app-snap/app_snapshot.png">
+</p>
