@@ -22,18 +22,13 @@ st.subheader('')
 st.markdown(
     """
     To use this web application just drag and drop a face image to be classified by the model. While
-    you think about that, have a 🍪 and refresh the page once or twice to classify a few built-in faces embedded
+    you think about that, just refresh the page once or twice to classify a few built-in faces embedded
     into the app. The classifier will return the result with the associated probability that a specific face image
-    belongs to either the ```Real``` or ```Fake``` class. The model's architecture summary is also presented below.
+    belongs to either the ```Real``` or ```Fake``` class. 
     """
 )
 
 model_cnn = get_model(path.join('assets', 'model', 'model.hdf5'))
-model_summary = get_model_summary(model_cnn)
-
-# Print model summary to expandable container
-with st.beta_expander(label='Model architecture summary', expanded=False):
-    st.markdown(f"""```{model_summary}""")
 
 # Upload face image file to use for prediction
 uploaded_file = st.file_uploader('Upload a face image for prediction',
