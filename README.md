@@ -27,6 +27,7 @@ Click [here](https://prasantkumar987-real-fakefaces-appapp-kl0mv2.streamlitapp.c
 <p align="center">
   <video autoplay>
   <source src="https://github.com/Prasantkumar987/Real-FakeFaces/blob/master/assets/demo.mp4" type="video/mp4">
+  </video>
 </p>
 
 ## Run the app locally
