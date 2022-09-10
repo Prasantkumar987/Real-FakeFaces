@@ -24,6 +24,9 @@ To extend this Project, and in order to leverage the created models, a Web Appli
 ## View the web app live
 Click [here](https://prasantkumar987-real-fakefaces-appapp-kl0mv2.streamlitapp.com/) to go to the app page.
 
+<p align="center">
+  <img src="assets/demo.mp4" alt="Demo Video of Live Webapp" width="600" />
+</p>
 
 ## Run the app locally
 
